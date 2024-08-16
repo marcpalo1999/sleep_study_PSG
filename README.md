@@ -2,8 +2,8 @@
 Spectral Analysis for sleep stage study of Physiological Signals
 
 Content of the repo:
-  -Data: not available due to safety reasons
-  -Code:
+  - Data: not available due to safety reasons
+  - Code:
     - Code.mlx
     - Functions (Directory)
     - matlab.mat
